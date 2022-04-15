@@ -5,7 +5,7 @@ This repository provides the official PyTorch implementation of the following pa
 > Yonggyu Kim (Korea Univ.), and [Jaegul Choo](https://sites.google.com/site/jaegulchoo/) (KAIST AI) (*: equal contribution)<br>
 > BMVC 2021<br>
 
-> Paper: [Arxiv](https://arxiv.org/abs/2110.11630) <br>
+> Paper: [Arxiv](https://arxiv.org/abs/2110.11630) [BMVC](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0761.html) <br>
 
 > **Abstract:** 
 *Despite the unprecedented improvement of face recognition, existing face recognition models still show considerably low performances in determining whether a pair of child and adult images belong to the same identity.
