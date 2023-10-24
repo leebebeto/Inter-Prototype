@@ -94,6 +94,14 @@ test
      └ image2.jpg
    └ ...
 ```
+If you wish to download the train data from insightface repo, you can do that with our python script for downloading the training data as follows
+```
+python prepare_train_data --dataset_type ms1mv2
+
+OR
+
+python prepare_train_data --dataset_type casia_webface
+```
 
 ### Pretrained Models
 #### All models trained for our paper
